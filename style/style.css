@@ -1,0 +1,22 @@
+.container{
+    padding:10px 0px 0px 0px;
+    width:400px;
+}
+.btn{
+    width:100px;
+}
+
+#viewTable{
+    color:white;
+    text-decoration:none;
+}
+
+.viewTble:hover{
+    background-color: coral;
+}
+.submit:hover{
+    background-color: blue;
+}
+.logoutbtn{
+    padding:5px;
+}

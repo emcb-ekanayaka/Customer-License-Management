@@ -1,0 +1,34 @@
+.btnlogout{
+    width:250px;
+}
+.card{
+    padding:0px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 300px;
+}
+.mainBody{
+    padding:50px;  
+}
+
+#viewTable{
+    color:white;
+    text-decoration:none;
+}
+
+.viewtable:hover{
+    background-color: green;
+}
+
+#addLicense{
+    color:white;
+    text-decoration:none;
+}
+
+.addLicense:hover{
+    background-color: coral;
+}
